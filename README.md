@@ -1,2 +1,3 @@
 # Bottell
-Web Browser Chatbot Using Google-DialogueFlow and Chrome Extension for it.
+Web Browser Chatbot Using Google-DialogueFlow.
+Widget that works as Chrome Extension.
